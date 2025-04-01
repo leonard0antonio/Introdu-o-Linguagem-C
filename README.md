@@ -22,13 +22,6 @@ Liste as tecnologias usadas no projeto e explique brevemente o papel de cada uma
 - **Ferramentas:**  
   - 🔧 `Compilador C` - utilizado para compilar e executar os programas escritos em C.  
 
-## 📸 Capturas de Tela (se houver)  
-Caso existam imagens ou prints do projeto, inclua aqui. Exemplo:
-
-![Descrição da Imagem](caminho/para/imagem.png)
-
-Se não houver imagens, descreva visualmente o projeto para que os leitores possam entender melhor sua interface e funcionamento.  
-- O projeto consiste principalmente em exemplos de código que são executados no terminal ou em um IDE de C, não possuindo uma interface gráfica.
 
 ## 🎯 Lições Aprendidas  
 Compartilhe os principais aprendizados adquiridos durante o desenvolvimento:  
